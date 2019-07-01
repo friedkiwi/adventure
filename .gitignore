@@ -243,5 +243,5 @@ ModelManifest.xml
 
 # typings
 typings/
-
+/adventure/config.json
 config.json
